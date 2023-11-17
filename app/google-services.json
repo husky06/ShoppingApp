@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659251945644",
+    "project_id": "onlineshoppingapp-9ddea",
+    "storage_bucket": "onlineshoppingapp-9ddea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659251945644:android:5f5fd00df81fbe3b6bbf09",
+        "android_client_info": {
+          "package_name": "vn.udn.vku.vkufinalproject.onlineshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659251945644-4146qe5a254e52a6n1636okv2ovk9fev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMojOtBuc0M6gA_WvaMWH9nsVE7Qpzjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659251945644-4146qe5a254e52a6n1636okv2ovk9fev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
